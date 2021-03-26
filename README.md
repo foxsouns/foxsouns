@@ -3,7 +3,7 @@
 My name is Sage. I know minimal bash, very minimal batch, and a good chunk of html.
   - I'm working on basically nothing.
   - I'm "learning" C++ and maybe python if i ever gather the motivation to do so lol
-  - She/her pronouns lol
+  - She/her pronouns
 
 <!--
 **foxsouns/foxsouns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
