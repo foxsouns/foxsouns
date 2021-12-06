@@ -6,4 +6,4 @@ My name is Sage. I know minimal bash, minimal ruby, very minimal batch, and a sm
   - It seems like I contribute to [willeccles' cpm](https://github.com/willeccles/cpm) fairly often. Give it a look!
   - She/her pronouns.
 
-If I dont specify, assume normal code and programs are GNU GPL, version 3 only; and assume images and other creative work of mine are CC BY-SA 4.0.
+If I dont specify, you may assume my normal code and programs are GNU GPL, version 3 only; and you may assume images and other creative work of mine are CC BY-SA 4.0.
