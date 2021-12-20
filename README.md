@@ -1,2 +1,2 @@
 ## I AM LEAVING GITHUB
-Catch my repos at the main GitLab instance, same user. I'm keeping this account around to contribute, but all my new code is going there.
+Catch my repos [at the main GitLab instance, same user](https://gitlab.com/foxsouns). I'm keeping this account around to contribute, but all my new code is going there.
